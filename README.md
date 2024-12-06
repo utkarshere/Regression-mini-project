@@ -1,0 +1,1 @@
+The following is a mini project which fits a quadratic curve to height and time variables in a dataset and calculates the acceleration(g) by comparing the quadratic polynomial equation with the gravity equation. Data is read, followed by extracting the coefficients from the equation.
